@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\EjercicioSpecFlow\\EjercicioSpecFlow.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\EjercicioSpecFlow\\EjercicioSpecFlow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\EjercicioSpecFlow\\EjercicioSpecFlow.csproj",
+        "projectName": "EjercicioSpecFlow",
+        "projectPath": "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\EjercicioSpecFlow\\EjercicioSpecFlow.csproj",
+        "packagesPath": "C:\\Users\\Anastasia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\EjercicioSpecFlow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anastasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\MSTest-tests-example\\MSTest-tests-example.csproj": {
+                "projectPath": "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\MSTest-tests-example\\MSTest-tests-example.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.7.38, )"
+            },
+            "SpecFlow.MsTest": {
+              "target": "Package",
+              "version": "[3.7.38, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.7.38, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\MSTest-tests-example\\MSTest-tests-example.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\MSTest-tests-example\\MSTest-tests-example.csproj",
+        "projectName": "MSTest-tests-example",
+        "projectPath": "C:\\Users\\Anastasia\\Desktop\\pruebas2entrega\\MSTest-tests-example\\MSTest-tests-example\\MSTest-tests-example.csproj"
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    }
+  }
+}

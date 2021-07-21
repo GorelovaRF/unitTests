@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTest-tests-example", "MSTest-tests-example\MSTest-tests-example.csproj", "{883463B3-CF34-49FF-9E88-7C58D56EC570}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3442361-B90E-446E-AE52-A5A6045D982C}"
+	ProjectSection(SolutionItems) = preProject
+		..\TriangleDetector.dll = ..\TriangleDetector.dll
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioSpecFlow", "EjercicioSpecFlow\EjercicioSpecFlow.csproj", "{090CBB90-94D5-4C34-B00F-651788FF776C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTest", "MSTest\MSTest.csproj", "{C9B3F3C1-A8DC-460F-B641-C51BB3B96C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloSpecFlow", "TrianguloSpecFlow\TrianguloSpecFlow.csproj", "{E3EAED8C-C2B1-49E9-9B69-26CAD6917257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloMSTest", "TrianguloMSTest\TrianguloMSTest.csproj", "{98EAA3B9-6457-43BF-AEE0-E7E7590A2F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883463B3-CF34-49FF-9E88-7C58D56EC570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883463B3-CF34-49FF-9E88-7C58D56EC570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883463B3-CF34-49FF-9E88-7C58D56EC570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883463B3-CF34-49FF-9E88-7C58D56EC570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090CBB90-94D5-4C34-B00F-651788FF776C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090CBB90-94D5-4C34-B00F-651788FF776C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090CBB90-94D5-4C34-B00F-651788FF776C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090CBB90-94D5-4C34-B00F-651788FF776C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B3F3C1-A8DC-460F-B641-C51BB3B96C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B3F3C1-A8DC-460F-B641-C51BB3B96C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B3F3C1-A8DC-460F-B641-C51BB3B96C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B3F3C1-A8DC-460F-B641-C51BB3B96C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EAED8C-C2B1-49E9-9B69-26CAD6917257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EAED8C-C2B1-49E9-9B69-26CAD6917257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EAED8C-C2B1-49E9-9B69-26CAD6917257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EAED8C-C2B1-49E9-9B69-26CAD6917257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EAA3B9-6457-43BF-AEE0-E7E7590A2F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EAA3B9-6457-43BF-AEE0-E7E7590A2F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EAA3B9-6457-43BF-AEE0-E7E7590A2F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EAA3B9-6457-43BF-AEE0-E7E7590A2F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71739099-9AEE-4EBE-9877-D2F43B3A7BCE}
+	EndGlobalSection
+EndGlobal
